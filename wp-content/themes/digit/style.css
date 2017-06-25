@@ -381,6 +381,7 @@ img.wp-post-image {
 }
 img.wp-smiley,
 .rsswidget img {
+	border: 1;
 	border: 0;
 	border-radius: 0;
 	box-shadow: none;
